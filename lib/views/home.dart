@@ -1,6 +1,5 @@
 import 'package:calculator/controller/calculatorController.dart';
 import 'package:calculator/views/allbuttons.dart';
-import 'package:calculator/views/currencyconverter.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
